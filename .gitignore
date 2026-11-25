@@ -1,0 +1,14 @@
+# Saídas privadas: gere fora do repositório sempre que possível
+/private/
+/outputs/
+/attachments/
+/downloads/
+roteiro-*.html
+*.pdf
+*.zip
+.env
+.env.*
+*.pem
+*.key
+.DS_Store
+Thumbs.db
